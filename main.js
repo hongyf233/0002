@@ -65,7 +65,7 @@ xhrGet('https://fastly.jsdelivr.net/gh/TransparentLC/WechatMomentScreenshot/emot
 var configDefault = {
     name: '在这里取一个独树一帜的微信名',
     text: '这里填上令人深恶痛绝的求赞文案',
-    location: '',
+    location: '天上人间',
     app: '',
     height: 1920,
     uiWhite: false,
