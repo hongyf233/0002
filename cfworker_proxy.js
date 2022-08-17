@@ -3,8 +3,8 @@ addEventListener('fetch', event => {
     const origin = event.request.headers.get('Origin');
     if ([
         'http://localhost',
-        'https://akarin.dev',
-        'https://transparentlc.github.io',
+        'https://cat@jiadoupi.vip',
+        'https://cat.jiadoupi.vip',
         // Add other mirrors
     ].includes(origin)) {
         response = response.then(e => {
