@@ -1,6 +1,6 @@
 <?php
 /* 自动获取微信公众号文章标题/封面 */
-/* https://github.com/TransparentLC/WechatMomentScreenshot */
+/* https://gitee.com/baomihua77/WechatMoment */
 
 //允许跨域
 header('Access-Control-Allow-Origin: *');
