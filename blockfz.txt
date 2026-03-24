@@ -10,3 +10,4 @@
 0.0.0.0 fzapph5.gjfzpt.cn
 127.0.0.1 fzapp.gjfzpt.cn
 0.0.0.0 xiaosiwole.com
+127.0.0.1 nishishabiba.com
