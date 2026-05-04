@@ -1,1 +1,15 @@
-
+payload:
+  - DOMAIN,gjfzpt.cn
+  - DOMAIN,tingfeng.chanct.cn
+  - DOMAIN,sz.gafz.chanct.cn
+  - DOMAIN,frappe.chanct.cn
+  - DOMAIN,oss.chanct.cn
+  - DOMAIN,fzapph5.chanct.cn
+  - DOMAIN,fzapp.chanct.cn
+  - DOMAIN,oss.gjfzpt.cn
+  - DOMAIN,fzapp-test-tyy.gjfzpt.cn
+  - DOMAIN,fzapph5.gjfzpt.cn
+  - DOMAIN,fzapp.gjfzpt.cn
+  - DOMAIN-SUFFIX,chanct.cn
+  - DOMAIN-SUFFIX,gjfzpt.cn
+  - DOMAIN,moomoo.com
